@@ -1,13 +1,13 @@
 # NLP Pipeline: SMS Spam Collection
 
-| | |
-|---|---|
-| **Modul** | Introduction to AI (IAI) |
+| |                           |
+|---|---------------------------|
+| **Module** | Introduction to AI (IAI)  |
 | **Professor** | Prof. Dr. Marcel Blattner |
-| **Student** | Paul Geser |
-| **Projekt** | Light Challenge |
+| **Student** | Paul Geser                |
+| **Project** | Light Version                 |
 
-
+ 
 Dataset source (License on website stating: 'unknown', downloaded on the 18.05.2026):
 
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
